@@ -1,0 +1,4 @@
+GRU_blocks,learning_rate,regularizer,droput,optimizer,batch size,weight_decay,train_loss,val_loss,train_accuracy,val_accuracy,test_loss,test_accuracy
+20,5e-05,0.7,0.5,Adam,1000,1e-07,0.7043140530586243,0.6948428153991699,0.5000798106193542,0.5105111002922058,3.1860,52.89%
+GRU_blocks,learning_rate,regularizer,droput,optimizer,batch size,weight_decay,train_loss,val_loss,train_accuracy,val_accuracy,test_loss,test_accuracy
+20,0.001,0,0.5,Adam,128,1e-07,0.34784021973609924,0.3677433133125305,0.8486118316650391,0.835622251033783,0.3857,82.60%

@@ -1,0 +1,4 @@
+learning_rate,num_hidden_layers,regularizer,num_neurons,droput,optimizer,train_loss,val_loss,train_accuracy,val_accuracy,test_loss,test_accuracy
+1e-07,5,0.7,512,0.7,SGD,7105.17578125,7104.6015625,0.498889297246933,0.48655420541763306,7122.4097,48.51%
+learning_rate,num_hidden_layers,regularizer,num_neurons,droput,optimizer,train_loss,val_loss,train_accuracy,val_accuracy,test_loss,test_accuracy
+0.0005,4,0,512,0.5,Adam,0.6791293621063232,0.6908511519432068,0.568925678730011,0.5402930974960327,0.6878,54.64%
